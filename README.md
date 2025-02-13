@@ -51,11 +51,8 @@ python main.py
 4. Customize gestures via the settings menu.
 
 ## Demo
-![GestureX Demo](https://your-demo-link.com/demo.gif)
+(https://drive.google.com/file/d/1RldMUiHqwG6et1c_zcuHv_hqNmJhBCjX/view?usp=sharing)
 
 ## Contributors
 - **Bhavesh Mishra** *(Lead Developer)*
 - **Yugam Shah** *(Computer Vision & AI Specialist)*
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
