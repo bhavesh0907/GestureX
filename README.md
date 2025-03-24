@@ -54,5 +54,6 @@ python main.py
 (https://drive.google.com/file/d/1RldMUiHqwG6et1c_zcuHv_hqNmJhBCjX/view?usp=sharing)
 
 ## Contributors
-- **Bhavesh Mishra** *(Lead Developer)*
-- **Yugam Shah** *(Computer Vision & AI Specialist)*
+- **Ashutosh Pant** *(Lead Developer)*
+- **Bhavesh Mishra** *(Computer Vision & AI Specialist)*
+- **Yugam Shah** *(Software & Algorithm Optimization)*
